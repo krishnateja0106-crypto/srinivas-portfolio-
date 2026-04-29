@@ -112,6 +112,17 @@ I enjoy developing practical solutions and continuously improving my skills in p
 </div>
 
 <div class="card">
+<h3>Certifications</h3>
+<ul class="sub">
+<li>
+<b>Critical Thinking: Change Your Perspective and Think Smarter</b><br>
+Platform: Udemy<br>
+<a href="https://www.udemy.com/certificate/UC-ec064e42-4b6d-4c80-8f04-20eb63626246/" target="_blank">View Certificate</a>
+</li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Hackathons & Activities</h3>
 <ul class="sub">
 <li>Active participant in hackathons and technical events</li>
