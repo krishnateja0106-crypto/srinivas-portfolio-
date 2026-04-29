@@ -147,11 +147,6 @@ Platform: Udemy<br>
 </p>
 </div>
 
-<div class="card">
-<h3>Specialization</h3>
-<p class="sub">Electronics and Communication Engineering (ECE)</p>
-</div>
-
 <footer>
 © 2025 Nukala Srinivas
 </footer>
